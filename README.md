@@ -118,8 +118,8 @@ Runs on: http://localhost:3000
   
 🙋‍♂ Developer Info  
   
-Name: Ashutosh Kale  
+Name:Revan Kumar Namala
   
-GitHub: ashukk16  
+GitHub:Chintu127
   
-Email: ashutoshkale9850@gmail.com  
+Email: namalarevankumar694@gmail.com
