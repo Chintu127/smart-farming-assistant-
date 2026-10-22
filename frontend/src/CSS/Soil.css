@@ -1,0 +1,35 @@
+.soil-wrapper {
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-radius: 1rem;
+}
+
+.soil-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+}
+
+.soil-card {
+  background: #fff;
+  border-left: 6px solid #28a745;
+  border-radius: 1rem;
+  padding: 1rem 1.2rem;
+  transition: all 0.3s ease;
+}
+
+.soil-card h5 {
+  margin-bottom: 0.5rem;
+}
+
+.alert-info {
+  background-color: #d1f0ff;
+  border-left: 4px solid #0dcaf0;
+ color: #000;
+}
